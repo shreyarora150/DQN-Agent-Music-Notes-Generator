@@ -1,6 +1,6 @@
-### run DQNMusic.ipynb to generate music 
+### INFO 557 Artificial Inteliigence final project 
 
-INFO 557 Artificial Inteliigence final project 
+Run DQNMusic.ipynb to generate music 
 
 A dqn agent to produce musical sequnece of notes. 
 Created a music environment with current state holding previously 4 played notes in memory and action space consisting of 12 notes from C to B in order.
