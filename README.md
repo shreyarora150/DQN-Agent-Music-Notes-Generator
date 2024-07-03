@@ -1,4 +1,4 @@
-### INFO 557 Artificial Inteliigence final project 
+### INFO 557 Artificial Inteligence final project 
 
 Run DQNMusic.ipynb to generate music 
 
